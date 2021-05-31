@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/souravjamwal77" target="blank"><img src="https://img.shields.io/twitter/follow/souravjamwal77?logo=twitter&style=for-the-badge" alt="souravjamwal77" /></a> </p>
 
-- 🔭 I’m currently working on **Some django and Machine Learning**
+- 🔭 I’m currently working on **Django and Machine Learning projects.**
 
 - 🌱 I’m currently learning **FastAPI and new developments in AI**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Django projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Django, and FastAPI projects**
 
 - 💬 Ask me about **Django, TensorFlow, and VueJS**
 
